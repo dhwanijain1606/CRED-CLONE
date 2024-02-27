@@ -25,7 +25,7 @@ gsap.to("#section2 #img3",{
         scroller:"body",
         // markers:true,
         start:"-100% 80%",
-        end:"-80% 80%",
+        end:"-60% 60%",
         scrub:1,
     }   
 })
@@ -38,7 +38,7 @@ gsap.to("#section2 #img4",{
         scroller:"body",
         // markers:true,
         start:"-100% 80%",
-        end:"-80% 80%",
+        end: "-60% 60%",
         scrub:1,
     }
 })
@@ -51,7 +51,7 @@ gsap.to("#section2 #img2",{
         scroller:"body",
         // markers:true,
         start:"-100% 80%",
-        end:"-80% 80%",
+        end: "-60% 60%",
         scrub:1,
     }
 })
@@ -64,7 +64,7 @@ gsap.to("#section2 #img1",{
         scroller:"body",
         // markers:true,
         start:"-100% 80%",
-        end:"-80% 80%",
+        end: "-60% 60%",
         scrub:1,
     }
 })
@@ -77,7 +77,7 @@ gsap.to("#section2 #img5",{
         scroller:"body",
         // markers:true,
         start:"-100% 80%",
-        end:"-80% 80%",
+        end: "-60% 60%",
         scrub:1,
     }
 })
